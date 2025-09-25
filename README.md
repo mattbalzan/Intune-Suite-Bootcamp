@@ -93,5 +93,12 @@
   - EAM → Automated patching, less overhead, fewer vulnerabilities.
   
   - Together → Combine to improve security, efficiency, and user experience.
+<br>
 
+> Links
+
+  - Interactive Demo for Remote Help: https://regale.cloud/microsoft/play/1746/remote-help#/0/0
+  
+  - Interactive Demo for EAM: https://regale.cloud/Microsoft/play/2289/enterprise-application-management?cid=intune-home#/0/0
+    
 🥳
