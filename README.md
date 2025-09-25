@@ -1,6 +1,7 @@
 # Intune Suite Bootcamp
 
 <img height="500" alt="image" src="https://github.com/user-attachments/assets/59a6fb48-e565-4c45-a848-7b2081785817" />
+<br>
 
 
 > The Intune Suite Value
@@ -84,6 +85,7 @@
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/343d86c7-e0fc-47e3-9dae-016a13773d4c" />
 <br>
 <br>
+
 > Customer Impact
 
   - Remote Help → Faster resolutions, secure and compliant support.
