@@ -54,6 +54,8 @@
 <br>
 
 > Remote Help: Demo Flow
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/343d86c7-e0fc-47e3-9dae-016a13773d4c" />
+
 <br>
 <br>
 
@@ -81,7 +83,8 @@
 <br>
 
 >  Enterprise App Management: Demo Flow
-> <br>
+> <img height="300" alt="image" src="https://github.com/user-attachments/assets/343d86c7-e0fc-47e3-9dae-016a13773d4c" />
+<br>
 
 > Customer Impact
 
